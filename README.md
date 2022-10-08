@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @RadianceL
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Eddie`s Profile
+---
+I enjoy java, go, python and enthusiastic in creation <br/>
+for now, i am working for Olympus cloud support framework
 
-<!---
-RadianceL/RadianceL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My most satisfied project is 
+- `olympus-athena` - Middle station logic engine
+- `olympus-chaos` - Basic support framework for ultra-lightweight microservices
+
+Look for like-minded partners

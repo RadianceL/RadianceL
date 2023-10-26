@@ -1,7 +1,7 @@
 Eddie`s Profile
 ---
-I enjoy java, go, python and enthusiastic in creation <br/>
-for now, i am working for olympus cloud support framework
+ 🍖 I’m a Cloud-Native Developer
+ 🍩 Currently work with == "Java - K8S - Alibaba"
 
 My most satisfied project is 
 - `olympus-athena` - Middle station logic engine

@@ -4,7 +4,6 @@ Eddie`s Profile
  🍩 Currently work with == "Java - K8S - Alibaba"
 
 *Skill:*
-
 Java/Go/Python/Kotlin/Shell/AWS/Aliyun
 
 Working on:
